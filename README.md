@@ -28,13 +28,13 @@ H1 and H2 are not mutually exclusive. Some retrotransposon families escape repro
 
 ## Potential Datasets
 
-| # | Role | Study | What we use | Access |
+| # | Role | Study | What will used | Access |
 |---|---|---|---|---|
-| 1 | Primary DMR set | McBirney et al. 2017, *PLoS ONE* | F3 atrazine vs control lineage sperm DMRs (MeDIP-seq) | Potential |
-| 2 | Secondary DMR set | Thorson et al. 2020, *PLoS ONE* | Disease-specific F3 sperm DMRs, Tables S2 to S6 (chr, start, stop, CpG density). rn6, 1 kb windows, edgeR p < 1e-4 | Open access. GEO GSE156530. Code: github.com/skinnerlab/MeDIP-seq |
-| 3 | Escape reference (independent method) | El Omri-Charai et al. 2023, *Development* | Methyl-seq capture of 9 male germ cell stages (n = 4 per stage); GD18 gonocytes = methylation minimum | GEO GSE220440. Article not open access (Auburn library) |
-| 4 | Escape reference (same lab, sensitivity only) | Ben Maamar et al. 2022, *iScience* | MeDIP-seq of E13 PGCs, E16 prospermatogonia, P10 spermatogonia to sperm. Tables S1 to S6 = top 1,000 DMRs per stage comparison | Open access. GEO GSE117995, GSE151458, GSE121585 |
-| 5 | Genome annotation | UCSC rn6 | RepeatMasker, genomicSuperDups, gap, CpG islands, RefSeq genes | Public |
+| 1 | Primary DMR set | McBirney et al. 2017, *PLoS ONE* | F3 atrazine vs control lineage sperm DMRs (MeDIP-seq) | 
+| 2 | Secondary DMR set | Thorson et al. 2020, *PLoS ONE* | Disease-specific F3 sperm DMRs, Tables S2 to S6 (chr, start, stop, CpG density). rn6, 1 kb windows, edgeR p < 1e-4 | 
+| 3 | Escape reference (independent method) | El Omri-Charai et al. 2023, *Development* | Methyl-seq capture of 9 male germ cell stages (n = 4 per stage); GD18 gonocytes = methylation minimum | 
+| 4 | Escape reference (same lab, sensitivity only) | Ben Maamar et al. 2022, *iScience* | MeDIP-seq of E13 PGCs, E16 prospermatogonia, P10 spermatogonia to sperm. Tables S1 to S6 = top 1,000 DMRs per stage comparison | 
+| 5 | Genome annotation | UCSC rn6 | RepeatMasker, genomicSuperDups, gap, CpG islands, RefSeq genes | 
 
 **OBS** Dataset 1 compares atrazine vs control lineages, which is the transgenerational exposure signature. Dataset 2 compares F3 males with vs without a disease **within** the atrazine lineage, so it answers a slightly different question (disease biomarkers). Dataset 1 is the main test; dataset 2 checks whether the pattern holds for disease DMRs.
 
