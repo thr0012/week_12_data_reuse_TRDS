@@ -1,6 +1,4 @@
-# week_12_data_reuse - 
-
-Do transgenerational sperm DMRs sit in regions that escape germline reprogramming?
+# week_12_data_reuse: Do transgenerational sperm DMRs sit in regions that escape germline reprogramming?
 
 **Week 12, Data Reuse project.** Rat, public data.
 
