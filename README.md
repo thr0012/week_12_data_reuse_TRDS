@@ -27,7 +27,7 @@ H1 and H2 are not mutually exclusive. Some retrotransposon families escape repro
 ## Potential Datasets
 
 | # | Role | Study | What will used |
-|---|---|---|---|---|
+|---|---|---|---|
 | 1 | Primary DMR set | McBirney et al. 2017, *PLoS ONE* | F3 atrazine vs control lineage sperm DMRs (MeDIP-seq) | 
 | 2 | Secondary DMR set | Thorson et al. 2020, *PLoS ONE* | Disease-specific F3 sperm DMRs, Tables S2 to S6 (chr, start, stop, CpG density). rn6, 1 kb windows, edgeR p < 1e-4 | 
 | 3 | Escape reference (independent method) | El Omri-Charai et al. 2023, *Development* | Methyl-seq capture of 9 male germ cell stages (n = 4 per stage); GD18 gonocytes = methylation minimum | 
