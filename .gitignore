@@ -1,0 +1,10 @@
+# large public inputs: re-download with scripts/00_download.sh
+data/genome/
+data/annot/
+data/methyl/
+*.idx.npz
+# logs
+*.log
+slurm-*.out
+__pycache__/
+.DS_Store

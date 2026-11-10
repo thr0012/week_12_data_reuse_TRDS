@@ -1,0 +1,694 @@
+chr	start	end	name	cpg_per_100bp	N_frac	hit: Any repeat	hit: rmsk: LINE	hit: rmsk: SINE	hit: rmsk: LTR	hit: rmsk: DNA	hit: rmsk: Satellite	hit: rmsk: Simple_repeat	hit: rmsk: Low_complexity	hit: family: ERVK	hit: family: ERV1	hit: family: ERVL	hit: family: ERVL-MaLR	hit: family: L1	hit: Tandem repeat (TRF)	hit: CpG island	hit: Artifact-prone (union)	GD18_n_cpg	GD18_meth	sperm_meth
+chr1	2520000	2521000	DMR1:2520001	1.2	0	True	False	True	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr1	4727000	4728000	DMR1:4727001	1.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr1	10126000	10127000	DMR1:10126001	0.5	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr1	14044000	14045000	DMR1:14044001	0.5	0	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False	True	0		1
+chr1	14466000	14468000	DMR1:14466001	1.35	0	True	True	False	True	False	False	False	False	True	False	False	True	True	False	False	False	0		
+chr1	24113000	24114000	DMR1:24113001	2.1	0	True	False	False	True	False	False	False	False	True	True	False	True	False	False	False	False	0		
+chr1	28177000	28178000	DMR1:28177001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	29209000	29210000	DMR1:29209001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	31021000	31022000	DMR1:31021001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	32260000	32261000	DMR1:32260001	1.9	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	17	0.06723	
+chr1	36932000	36934000	DMR1:36932001	0.9	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	10	0.0375	
+chr1	39511000	39512000	DMR1:39511001	0.4	0.686	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	40438000	40439000	DMR1:40438001	0.6	0	True	False	True	False	False	False	False	True	False	False	False	False	False	True	False	True	3	0.06061	
+chr1	40620000	40621000	DMR1:40620001	1.6	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.02778	
+chr1	53325000	53326000	DMR1:53325001	1.1	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	3	0	
+chr1	61609000	61611000	DMR1:61609001	0.35	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	65128000	65130000	DMR1:65128001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	68985000	68986000	DMR1:68985001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	75092000	75097000	DMR1:75092001	1.28	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	75124000	75125000	DMR1:75124001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	75126000	75129000	DMR1:75126001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	75148000	75149000	DMR1:75148001	0.7	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr1	76331000	76339000	DMR1:76331001	0.8875	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	5	0	
+chr1	76445000	76447000	DMR1:76445001	0.95	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	3	0	0.2
+chr1	76490000	76491000	DMR1:76490001	0.9	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr1	76516000	76517000	DMR1:76516001	1.6	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr1	76581000	76586000	DMR1:76581001	0.42	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	76587000	76588000	DMR1:76587001	0.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	76591000	76595000	DMR1:76591001	0.425	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	76605000	76610000	DMR1:76605001	0.26	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	76613000	76614000	DMR1:76613001	0.1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	76679000	76681000	DMR1:76679001	0.95	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	76720000	76721000	DMR1:76720001	0	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr1	76761000	76764000	DMR1:76761001	0.4333	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr1	76957000	76959000	DMR1:76957001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	True	False	True	2	0	
+chr1	76982000	76984000	DMR1:76982001	0.7	0.002	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	76986000	76988000	DMR1:76986001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	77087000	77090000	DMR1:77087001	0.3333	0.0003333	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	77197000	77199000	DMR1:77197001	1.1	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr1	77268000	77270000	DMR1:77268001	0.9	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	77278000	77285000	DMR1:77278001	0.7571	0.0001429	True	True	False	True	False	False	False	False	False	False	False	False	True	False	False	False	4	0	0.7333
+chr1	77564000	77569000	DMR1:77564001	0.96	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	81525000	81527000	DMR1:81525001	1.05	0	True	True	False	True	False	False	False	False	True	False	False	False	True	True	False	True	0		
+chr1	82160000	82162000	DMR1:82160001	2.1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	40	0.02769	0.9726
+chr1	82457000	82458000	DMR1:82457001	2.7	0	True	False	True	False	False	True	False	False	False	False	False	False	False	False	False	True	7	0.02041	1
+chr1	82517000	82519000	DMR1:82517001	1.55	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	27	0.04732	0.9436
+chr1	90868000	90869000	DMR1:90868001	1.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr1	90884000	90886000	DMR1:90884001	1.75	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr1	91580000	91582000	DMR1:91580001	0.65	0	True	True	True	True	False	False	False	False	False	False	False	True	True	True	False	True	0		
+chr1	92333000	92334000	DMR1:92333001	2.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	18	0.1749	0.3247
+chr1	92841000	92842000	DMR1:92841001	1.6	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr1	99370000	99372000	DMR1:99370001	1.15	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	101410000	101411000	DMR1:101410001	1.9	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	10	0.007267	0.2135
+chr1	104533000	104534000	DMR1:104533001	1.8	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	18	0.04603	0.9054
+chr1	104693000	104694000	DMR1:104693001	1.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr1	109801000	109802000	DMR1:109801001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	111561000	111563000	DMR1:111561001	0.75	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0	
+chr1	129489000	129490000	DMR1:129489001	1.3	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0.09231	1
+chr1	133239000	133240000	DMR1:133239001	0.4	0	True	False	True	True	False	False	True	False	False	True	False	False	False	False	False	True	0		
+chr1	138949000	138950000	DMR1:138949001	0.9	0	True	True	False	True	False	False	False	False	False	False	True	False	True	False	False	False	0		
+chr1	139470000	139471000	DMR1:139470001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	142911000	142912000	DMR1:142911001	1.6	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr1	145971000	145972000	DMR1:145971001	1.1	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	0		
+chr1	150626000	150627000	DMR1:150626001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	154233000	154234000	DMR1:154233001	1.5	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr1	159123000	159124000	DMR1:159123001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	159824000	159825000	DMR1:159824001	0.2	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	1	0	
+chr1	160919000	160921000	DMR1:160919001	0.75	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	165552000	165553000	DMR1:165552001	1.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr1	173250000	173251000	DMR1:173250001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	193233000	193234000	DMR1:193233001	0.3	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr1	193581000	193582000	DMR1:193581001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	4	0	
+chr1	195362000	195363000	DMR1:195362001	1.1	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr1	203230000	203232000	DMR1:203230001	1.7	0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	0		
+chr1	203994000	203995000	DMR1:203994001	1.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.125	
+chr1	204864000	204865000	DMR1:204864001	0.6	0	True	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	207548000	207551000	DMR1:207548001	0.3667	0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	3	0	
+chr1	209595000	209597000	DMR1:209595001	1.8	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	26	0.1307	0.9621
+chr1	214667000	214668000	DMR1:214667001	2.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.02734	1
+chr1	218426000	218427000	DMR1:218426001	1.1	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	7	0	
+chr1	218515000	218516000	DMR1:218515001	1.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	10	0.2444	1
+chr1	222828000	222830000	DMR1:222828001	0.65	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	230821000	230822000	DMR1:230821001	0.4	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	1	0	
+chr1	241331000	241332000	DMR1:241331001	0.7	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr1	243983000	243984000	DMR1:243983001	0.6	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	5	0	1
+chr1	255379000	255380000	DMR1:255379001	1.2	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr1	256159000	256161000	DMR1:256159001	1.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr1	267022000	267024000	DMR1:267022001	2.5	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	40	0.07614	0.9703
+chr1	267222000	267224000	DMR1:267222001	2.15	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	33	0.0647	0.9668
+chr1	273494000	273495000	DMR1:273494001	1.1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	3	0.1111	1
+chr1	274644000	274645000	DMR1:274644001	1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0	
+chr1	275074000	275075000	DMR1:275074001	0.5	0	True	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	0		
+chr1	277294000	277295000	DMR1:277294001	3.1	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr1	278041000	278043000	DMR1:278041001	1.8	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	32	0.08051	0.9069
+chr1	278777000	278778000	DMR1:278777001	0.8	0	True	True	True	False	False	False	True	False	False	False	False	False	True	True	False	True	2	0.2466	0.9674
+chr1	281670000	281671000	DMR1:281670001	1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr2	6793000	6794000	DMR2:6793001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	11726000	11730000	DMR2:11726001	1.3	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	13	0.4084	0.9744
+chr2	20629000	20630000	DMR2:20629001	0.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	1
+chr2	22392000	22393000	DMR2:22392001	2.2	0.04	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0	1
+chr2	22743000	22744000	DMR2:22743001	2	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	11	0.006717	0.04854
+chr2	23605000	23606000	DMR2:23605001	1.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	3	0	
+chr2	26622000	26623000	DMR2:26622001	1.1	0	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	0		
+chr2	32812000	32813000	DMR2:32812001	1.1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	1
+chr2	41378000	41379000	DMR2:41378001	0.9	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr2	44855000	44856000	DMR2:44855001	1.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	10	0.01857	0.1833
+chr2	44961000	44962000	DMR2:44961001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	3	0	
+chr2	53782000	53783000	DMR2:53782001	0.6	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	True	0		
+chr2	54791000	54793000	DMR2:54791001	0.4	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr2	55320000	55321000	DMR2:55320001	1.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	7	0	0.2833
+chr2	66973000	66974000	DMR2:66973001	0.2	0	True	True	False	False	False	False	True	False	False	False	False	False	True	False	False	True	0		
+chr2	79449000	79451000	DMR2:79449001	0.55	0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr2	83335000	83336000	DMR2:83335001	0.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0	
+chr2	87330000	87331000	DMR2:87330001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	97695000	97696000	DMR2:97695001	1.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	17	0.03098	0.6944
+chr2	100866000	100867000	DMR2:100866001	0.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	102007000	102009000	DMR2:102007001	0.85	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	107547000	107548000	DMR2:107547001	0.7	0	True	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr2	110080000	110081000	DMR2:110080001	0.6	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr2	113646000	113647000	DMR2:113646001	0.3	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr2	116439000	116440000	DMR2:116439001	0.9	0	True	False	True	False	True	False	False	False	False	False	False	False	False	False	False	False	8	0.03739	0.9727
+chr2	127971000	127972000	DMR2:127971001	0.8	0	True	False	True	True	False	False	False	False	False	False	False	True	False	True	False	True	0		
+chr2	130167000	130168000	DMR2:130167001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	144575000	144576000	DMR2:144575001	0.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr2	151384000	151388000	DMR2:151384001	0.75	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	161475000	161476000	DMR2:161475001	0.2	0.05	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	163547000	163550000	DMR2:163547001	0.6333	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	165892000	165893000	DMR2:165892001	1.4	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	2	0	
+chr2	176464000	176465000	DMR2:176464001	0.3	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr2	178424000	178426000	DMR2:178424001	0.75	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	3	0	0.9286
+chr2	178848000	178850000	DMR2:178848001	0.75	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	6	0	
+chr2	179160000	179161000	DMR2:179160001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	1	0	1
+chr2	185680000	185681000	DMR2:185680001	0.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		1
+chr2	188444000	188445000	DMR2:188444001	2.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr2	193601000	193602000	DMR2:193601001	0.2	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	193869000	193870000	DMR2:193869001	0.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr2	199207000	199210000	DMR2:199207001	0.5667	0.008333	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	199395000	199401000	DMR2:199395001	1.9	0.0055	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	21	0.07568	0.9088
+chr2	201465000	201466000	DMR2:201465001	0.6	0	True	False	True	False	False	False	True	False	False	False	False	False	False	False	False	True	0		
+chr2	203982000	203983000	DMR2:203982001	2.3	0	True	True	True	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr2	212190000	212191000	DMR2:212190001	0.4	0	True	True	False	True	False	False	False	True	False	False	True	False	True	True	False	True	0		
+chr2	215357000	215359000	DMR2:215357001	0.95	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	1	0	
+chr2	220677000	220679000	DMR2:220677001	1.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	10	0.02079	0.798
+chr2	222756000	222757000	DMR2:222756001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	227104000	227105000	DMR2:227104001	0.7	0	True	True	False	True	False	False	False	False	True	False	False	False	True	True	False	True	0		
+chr2	228086000	228087000	DMR2:228086001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr2	230266000	230268000	DMR2:230266001	0.95	0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	5	0.01468	0.6635
+chr2	231916000	231917000	DMR2:231916001	0.3	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr2	241962000	241963000	DMR2:241962001	0.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr2	246622000	246623000	DMR2:246622001	1.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	11	0.03877	1
+chr2	247675000	247676000	DMR2:247675001	1.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	6	0.03802	0.945
+chr2	250741000	250742000	DMR2:250741001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	5	0	1
+chr2	252967000	252969000	DMR2:252967001	1.65	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	11	0.03874	0.7889
+chr3	788000	789000	DMR3:788001	1.1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	6983000	6984000	DMR3:6983001	0.8	0.186	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	0		
+chr3	10428000	10430000	DMR3:10428001	1.9	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	6	0	
+chr3	10901000	10903000	DMR3:10901001	2.2	0	True	False	True	True	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr3	13317000	13318000	DMR3:13317001	0.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr3	17336000	17337000	DMR3:17336001	0.3	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr3	19619000	19620000	DMR3:19619001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	20904000	20906000	DMR3:20904001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	29063000	29064000	DMR3:29063001	0.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0.25	1
+chr3	29799000	29800000	DMR3:29799001	1.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	33936000	33937000	DMR3:33936001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	36816000	36820000	DMR3:36816001	1.075	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	8	0.125	1
+chr3	37233000	37234000	DMR3:37233001	0.8	0	True	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	1	0	
+chr3	43051000	43052000	DMR3:43051001	1.3	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0	1
+chr3	43141000	43143000	DMR3:43141001	0.3	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr3	53567000	53570000	DMR3:53567001	0.8667	0.006	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	6	0	1
+chr3	59637000	59638000	DMR3:59637001	1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr3	72962000	72963000	DMR3:72962001	0.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	73358000	73359000	DMR3:73358001	0.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	78692000	78693000	DMR3:78692001	0.1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	80526000	80527000	DMR3:80526001	0.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		1
+chr3	85119000	85120000	DMR3:85119001	1.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	85595000	85596000	DMR3:85595001	0.9	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	87046000	87048000	DMR3:87046001	0.85	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	99477000	99478000	DMR3:99477001	0.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr3	103798000	103800000	DMR3:103798001	0.65	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	111866000	111867000	DMR3:111866001	2	0	True	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0.04132	0.9357
+chr3	113486000	113487000	DMR3:113486001	2.6	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	4	0	1
+chr3	123526000	123527000	DMR3:123526001	0.7	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	True	3	0	
+chr3	128461000	128463000	DMR3:128461001	0.8	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	2	0	
+chr3	133047000	133048000	DMR3:133047001	0.7	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr3	133630000	133631000	DMR3:133630001	1.9	0	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	13	0.01654	0.7243
+chr3	133797000	133798000	DMR3:133797001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	136082000	136083000	DMR3:136082001	0.6	0	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	0		
+chr3	149795000	149796000	DMR3:149795001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr3	153134000	153135000	DMR3:153134001	1.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr3	153175000	153176000	DMR3:153175001	1.6	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	7	0.3584	
+chr3	153594000	153595000	DMR3:153594001	1.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.01715	0.9529
+chr3	157977000	157978000	DMR3:157977001	1.3	0	True	True	True	False	False	False	True	False	False	False	False	False	True	True	False	True	0		
+chr3	159495000	159496000	DMR3:159495001	1.1	0	True	True	True	True	True	False	True	False	False	False	False	True	True	False	False	True	0		
+chr3	162836000	162838000	DMR3:162836001	1.65	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0	0.9524
+chr3	163329000	163330000	DMR3:163329001	2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0.25	
+chr3	167752000	167753000	DMR3:167752001	0.6	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	1	0	
+chr3	175054000	175055000	DMR3:175054001	1.1	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	1	0	
+chr4	533000	534000	DMR4:533001	1.3	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	12	0.01667	
+chr4	1423000	1424000	DMR4:1423001	1.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	3949000	3950000	DMR4:3949001	1.5	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	True	0		
+chr4	7138000	7139000	DMR4:7138001	0.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr4	9641000	9642000	DMR4:9641001	1.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	17	0.04827	0.9566
+chr4	12404000	12405000	DMR4:12404001	1.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	16197000	16200000	DMR4:16197001	1.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	5	0.007143	0.2382
+chr4	24278000	24281000	DMR4:24278001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	28815000	28816000	DMR4:28815001	0.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	1
+chr4	29896000	29897000	DMR4:29896001	0.7	0	True	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr4	31758000	31759000	DMR4:31758001	1.3	0	True	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	2	0.04053	1
+chr4	34312000	34316000	DMR4:34312001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	1	0.02115	0.9608
+chr4	34328000	34329000	DMR4:34328001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	45820000	45821000	DMR4:45820001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	49541000	49542000	DMR4:49541001	4.7	0	True	False	False	True	False	False	False	False	False	True	False	False	False	True	False	True	0		
+chr4	49916000	49917000	DMR4:49916001	0.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0.01303	0.9375
+chr4	52399000	52400000	DMR4:52399001	0.3	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr4	52693000	52694000	DMR4:52693001	0.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr4	56717000	56719000	DMR4:56717001	2.25	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	43	0.04981	0.9619
+chr4	61623000	61624000	DMR4:61623001	1.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr4	65126000	65127000	DMR4:65126001	0.6	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	
+chr4	69079000	69080000	DMR4:69079001	0.2	0	True	True	False	False	False	False	True	False	False	False	False	False	True	True	False	True	0		
+chr4	74293000	74294000	DMR4:74293001	0.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0.3125	
+chr4	79146000	79147000	DMR4:79146001	0.7	0	True	True	True	True	False	False	False	False	False	False	False	True	True	False	False	False	0		1
+chr4	94763000	94765000	DMR4:94763001	0.5	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr4	99801000	99802000	DMR4:99801001	0.3	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr4	102980000	102981000	DMR4:102980001	1.1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	True	False	True	0		
+chr4	108146000	108147000	DMR4:108146001	0.7	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr4	109502000	109503000	DMR4:109502001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	116679000	116680000	DMR4:116679001	0.4	0	True	False	True	False	False	False	False	True	False	False	False	False	False	False	False	True	1	0	
+chr4	130142000	130144000	DMR4:130142001	1.75	0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	2	0.8333	0.8
+chr4	133363000	133365000	DMR4:133363001	1.35	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	6	0.1667	
+chr4	135619000	135620000	DMR4:135619001	2.1	0.059	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	135771000	135772000	DMR4:135771001	0.6	0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	0		
+chr4	137401000	137403000	DMR4:137401001	0.65	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	147288000	147289000	DMR4:147288001	1.1	0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr4	157979000	157980000	DMR4:157979001	2.6	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr4	161765000	161767000	DMR4:161765001	1.1	0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0.3253	1
+chr4	165431000	165433000	DMR4:165431001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	166288000	166290000	DMR4:166288001	0.65	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	2	0.08333	
+chr4	167451000	167453000	DMR4:167451001	0.4	0.0005	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr4	172225000	172226000	DMR4:172225001	0.2	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr4	174872000	174873000	DMR4:174872001	1.7	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	2	0	
+chr4	176418000	176420000	DMR4:176418001	0.65	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr4	180928000	180930000	DMR4:180928001	1.85	0	True	True	True	False	False	False	False	False	False	False	False	False	True	True	False	True	3	0.1053	
+chr5	17052000	17053000	DMR5:17052001	0.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr5	18268000	18269000	DMR5:18268001	0.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr5	29739000	29740000	DMR5:29739001	1.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr5	30414000	30415000	DMR5:30414001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	32310000	32312000	DMR5:32310001	0.35	0	True	True	True	False	False	False	True	False	False	False	False	False	True	False	False	True	2	0	
+chr5	32518000	32519000	DMR5:32518001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	33461000	33466000	DMR5:33461001	0.54	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	36723000	36724000	DMR5:36723001	0.5	0.001	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	44269000	44270000	DMR5:44269001	0.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	46402000	46403000	DMR5:46402001	0.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr5	46804000	46805000	DMR5:46804001	1.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0.25	
+chr5	48403000	48404000	DMR5:48403001	0.5	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr5	54500000	54501000	DMR5:54500001	0.3	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	55498000	55500000	DMR5:55498001	0.45	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	57910000	57912000	DMR5:57910001	1.1	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.175	0.9167
+chr5	64191000	64193000	DMR5:64191001	0.45	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	65884000	65885000	DMR5:65884001	0.7	0	True	True	False	True	False	False	False	False	False	True	True	False	True	False	False	False	0		
+chr5	66535000	66537000	DMR5:66535001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	True	False	True	0		
+chr5	68250000	68251000	DMR5:68250001	1.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	70405000	70406000	DMR5:70405001	0.8	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr5	78493000	78494000	DMR5:78493001	2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		0.125
+chr5	79842000	79843000	DMR5:79842001	1.1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	0.8571
+chr5	80098000	80099000	DMR5:80098001	0.3	0	True	False	True	False	True	False	False	False	False	False	False	False	False	False	False	False	0		
+chr5	87243000	87244000	DMR5:87243001	0.4	0	True	True	False	False	False	False	True	False	False	False	False	False	True	True	False	True	0		
+chr5	88976000	88977000	DMR5:88976001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	98286000	98287000	DMR5:98286001	0.6	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	2	0	
+chr5	103523000	103525000	DMR5:103523001	0.65	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	3	0.02899	
+chr5	105076000	105078000	DMR5:105076001	0.9	0.025	True	True	True	False	False	False	True	False	False	False	False	False	True	True	False	True	0		
+chr5	107967000	107968000	DMR5:107967001	0.8	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.09704	0.9658
+chr5	113691000	113692000	DMR5:113691001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	115264000	115265000	DMR5:115264001	0.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr5	118326000	118328000	DMR5:118326001	0.6	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr5	124851000	124855000	DMR5:124851001	1.075	0.00625	True	False	False	True	True	False	True	False	False	False	False	False	False	True	False	True	8	0.01614	0.7161
+chr5	126428000	126430000	DMR5:126428001	0.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.04335	0.9815
+chr5	127454000	127456000	DMR5:127454001	2.15	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	40	0.04484	0.953
+chr5	129264000	129265000	DMR5:129264001	0.9	0	True	False	True	True	False	False	False	True	False	False	True	False	False	False	False	True	0		
+chr5	130142000	130143000	DMR5:130142001	1	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	2	0	0.8713
+chr5	138061000	138062000	DMR5:138061001	1.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	5	0	1
+chr5	141183000	141184000	DMR5:141183001	1.8	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.0625	1
+chr5	151503000	151504000	DMR5:151503001	2.4	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.1513	0.9787
+chr5	153224000	153226000	DMR5:153224001	1.65	0	True	False	False	True	False	False	False	False	True	False	False	True	False	False	False	False	6	0.1667	
+chr5	156552000	156554000	DMR5:156552001	1.8	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	30	0.06763	0.9824
+chr5	156619000	156621000	DMR5:156619001	2.35	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	43	0.03981	0.9401
+chr5	162082000	162083000	DMR5:162082001	3.1	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	0		
+chr5	162102000	162104000	DMR5:162102001	3.7	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	0		
+chr5	162254000	162255000	DMR5:162254001	1.3	0.05	True	False	True	True	False	False	False	False	False	True	False	False	False	False	False	False	0		
+chr5	165132000	165135000	DMR5:165132001	2.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	51	0.02712	0.9659
+chr5	166596000	166599000	DMR5:166596001	2.833	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	62	0.04178	0.975
+chr5	169693000	169694000	DMR5:169693001	3.3	0.007	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	19	0.1214	0.9893
+chr5	171556000	171558000	DMR5:171556001	1.85	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr6	1645000	1646000	DMR6:1645001	1.6	0	True	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	0		
+chr6	3732000	3735000	DMR6:3732001	1.8	0.1697	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	26	0.03978	0.9133
+chr6	8380000	8381000	DMR6:8380001	0.5	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	0		
+chr6	8785000	8786000	DMR6:8785001	1.4	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	3	0.01754	
+chr6	9131000	9132000	DMR6:9131001	2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	10	0.02717	0.9785
+chr6	10144000	10145000	DMR6:10144001	2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	12	0.03429	0.9559
+chr6	12627000	12628000	DMR6:12627001	0.5	0	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	2	0.55	
+chr6	13950000	13951000	DMR6:13950001	3.2	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	0		
+chr6	26307000	26308000	DMR6:26307001	1	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr6	26567000	26568000	DMR6:26567001	1.8	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.02302	0.9621
+chr6	35272000	35273000	DMR6:35272001	0.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	1
+chr6	44367000	44368000	DMR6:44367001	3.6	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	16	0.008521	0.1178
+chr6	45069000	45070000	DMR6:45069001	0.8	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0	1
+chr6	47115000	47116000	DMR6:47115001	1.1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.05556	
+chr6	47122000	47123000	DMR6:47122001	0.7	0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	0		
+chr6	51219000	51220000	DMR6:51219001	0.9	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	1
+chr6	51468000	51469000	DMR6:51468001	1.3	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	12	0.09333	0.9971
+chr6	58869000	58870000	DMR6:58869001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr6	65372000	65373000	DMR6:65372001	2.1	0.125	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr6	71822000	71823000	DMR6:71822001	1.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	1	
+chr6	74656000	74657000	DMR6:74656001	1.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	12	0.06667	
+chr6	79181000	79182000	DMR6:79181001	2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr6	92510000	92511000	DMR6:92510001	1.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr6	97524000	97525000	DMR6:97524001	0.9	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr6	108359000	108360000	DMR6:108359001	1.4	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr6	121396000	121397000	DMR6:121396001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr6	121477000	121478000	DMR6:121477001	0.3	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr6	124111000	124112000	DMR6:124111001	2.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	0		
+chr6	131285000	131286000	DMR6:131285001	1.2	0	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	2	0	
+chr6	133612000	133613000	DMR6:133612001	2.4	0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr6	135181000	135182000	DMR6:135181001	2.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False	True	6	0.08333	
+chr6	136246000	136248000	DMR6:136246001	2.05	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr6	144540000	144541000	DMR6:144540001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	2	0	
+chr7	3231000	3232000	DMR7:3231001	2.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	18	0.01496	0.9084
+chr7	12302000	12304000	DMR7:12302001	2.35	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	43	0.08874	0.9158
+chr7	14552000	14553000	DMR7:14552001	0.1	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr7	17221000	17224000	DMR7:17221001	0.6	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr7	17385000	17386000	DMR7:17385001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr7	18485000	18487000	DMR7:18485001	1.9	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	28	0.05229	0.6452
+chr7	19650000	19652000	DMR7:19650001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr7	38001000	38002000	DMR7:38001001	0.3	0.267	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr7	38869000	38870000	DMR7:38869001	0.4	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr7	40760000	40762000	DMR7:40760001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr7	42315000	42316000	DMR7:42315001	0.9	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		1
+chr7	47833000	47834000	DMR7:47833001	1.1	0	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	0		
+chr7	50432000	50433000	DMR7:50432001	0.6	0.149	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr7	51221000	51222000	DMR7:51221001	0.6	0	True	True	True	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr7	53927000	53928000	DMR7:53927001	0.7	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	True	0		
+chr7	54320000	54321000	DMR7:54320001	0.2	0.001	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr7	56358000	56361000	DMR7:56358001	0.9667	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr7	57694000	57695000	DMR7:57694001	0.5	0.479	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr7	59137000	59138000	DMR7:59137001	0.3	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr7	62264000	62265000	DMR7:62264001	1.3	0.027	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr7	76233000	76234000	DMR7:76233001	1.3	0	True	False	False	True	False	False	False	False	False	False	False	True	False	True	False	True	4	0.25	1
+chr7	78759000	78760000	DMR7:78759001	1	0	True	False	False	True	False	False	False	False	False	True	False	True	False	False	False	False	0		
+chr7	87157000	87158000	DMR7:87157001	1	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	2	0	
+chr7	97415000	97416000	DMR7:97415001	0.8	0	True	True	True	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr7	102791000	102792000	DMR7:102791001	0.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.6667	
+chr7	109181000	109184000	DMR7:109181001	0.9333	0	True	False	True	False	False	False	True	False	False	False	False	False	False	False	False	True	17	0.004706	
+chr7	121343000	121344000	DMR7:121343001	1.5	0	True	False	True	False	False	False	True	False	False	False	False	False	False	False	False	True	0		
+chr7	124847000	124849000	DMR7:124847001	1.8	0	True	True	False	True	False	False	False	False	True	False	False	False	False	False	False	False	11	0.04254	0.8673
+chr7	125677000	125678000	DMR7:125677001	2.1	0	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	4	0.05835	0.9789
+chr7	129306000	129307000	DMR7:129306001	1.4	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	5	0.08571	0.8
+chr7	133131000	133135000	DMR7:133131001	1.6	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr7	139802000	139804000	DMR7:139802001	1.25	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	20	0.03951	0.8571
+chr7	143340000	143341000	DMR7:143340001	1.4	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr7	143427000	143428000	DMR7:143427001	1	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	2	0	
+chr7	143907000	143909000	DMR7:143907001	1.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr7	145655000	145656000	DMR7:145655001	0.4	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr8	8905000	8906000	DMR8:8905001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	2	0	1
+chr8	10322000	10323000	DMR8:10322001	1.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	11583000	11584000	DMR8:11583001	0.9	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	16161000	16162000	DMR8:16161001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	20304000	20306000	DMR8:20304001	0.25	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	25692000	25694000	DMR8:25692001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	True	False	True	3	0	1
+chr8	25851000	25852000	DMR8:25851001	1.1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.06667	
+chr8	27149000	27150000	DMR8:27149001	0.8	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr8	40866000	40867000	DMR8:40866001	0.9	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr8	46966000	46967000	DMR8:46966001	0.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	
+chr8	51963000	51964000	DMR8:51963001	1.3	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	1
+chr8	64449000	64450000	DMR8:64449001	0.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr8	65410000	65411000	DMR8:65410001	1.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0	1
+chr8	73523000	73525000	DMR8:73523001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	75694000	75696000	DMR8:75694001	1.8	0.0045	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	11	0.3636	1
+chr8	77515000	77516000	DMR8:77515001	1	0.104	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr8	86351000	86354000	DMR8:86351001	0.1667	0.001333	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	89418000	89419000	DMR8:89418001	1.1	0	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	2	0	1
+chr8	90142000	90145000	DMR8:90142001	0.3333	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	90471000	90472000	DMR8:90471001	0.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr8	91378000	91380000	DMR8:91378001	1.05	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	0.8
+chr8	92043000	92044000	DMR8:92043001	1.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	95437000	95439000	DMR8:95437001	1.35	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	13	0.07692	
+chr8	97802000	97803000	DMR8:97802001	1.3	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr8	98170000	98171000	DMR8:98170001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	102019000	102020000	DMR8:102019001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	True	False	True	0		
+chr8	103539000	103540000	DMR8:103539001	0.3	0	False	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	0		
+chr8	108935000	108936000	DMR8:108935001	0.8	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		0.8958
+chr8	111478000	111481000	DMR8:111478001	1.833	0.001333	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	10	0	1
+chr8	112600000	112601000	DMR8:112600001	0.7	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr8	114170000	114171000	DMR8:114170001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr8	116251000	116252000	DMR8:116251001	0.5	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr8	123596000	123597000	DMR8:123596001	1.1	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	2	0	
+chr8	123636000	123638000	DMR8:123636001	1.5	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	13	0.02697	0.8257
+chr8	123852000	123853000	DMR8:123852001	1.5	0	True	False	False	True	False	False	False	False	False	True	True	False	False	False	False	False	1	0	
+chr8	124346000	124347000	DMR8:124346001	1.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0	
+chr8	124620000	124621000	DMR8:124620001	1.6	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	
+chr8	130912000	130913000	DMR8:130912001	0.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	0		
+chr9	5264000	5265000	DMR9:5264001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	6318000	6319000	DMR9:6318001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	7368000	7371000	DMR9:7368001	0.4667	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	10446000	10447000	DMR9:10446001	4.9	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	True	False	29	0.008818	0
+chr9	11352000	11354000	DMR9:11352001	0.45	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	16174000	16175000	DMR9:16174001	1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr9	16629000	16632000	DMR9:16629001	1.933	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr9	24772000	24773000	DMR9:24772001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		1
+chr9	28135000	28136000	DMR9:28135001	1.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		1
+chr9	29283000	29284000	DMR9:29283001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	True	False	True	0		
+chr9	32532000	32533000	DMR9:32532001	0.5	0	True	True	False	True	False	False	False	False	False	False	True	False	True	False	False	False	0		
+chr9	36445000	36446000	DMR9:36445001	0.8	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	1	0	
+chr9	38509000	38510000	DMR9:38509001	1.3	0	True	False	False	True	False	False	False	False	False	True	True	False	False	False	False	False	0		
+chr9	38868000	38869000	DMR9:38868001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	41523000	41524000	DMR9:41523001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	48749000	48750000	DMR9:48749001	0.7	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		1
+chr9	50302000	50303000	DMR9:50302001	1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr9	51708000	51711000	DMR9:51708001	0.6667	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	53983000	53984000	DMR9:53983001	0.7	0.003	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	57407000	57408000	DMR9:57407001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	60729000	60730000	DMR9:60729001	0.9	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr9	62806000	62807000	DMR9:62806001	0.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr9	63755000	63756000	DMR9:63755001	1.9	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	2	0.1276	0.9848
+chr9	71438000	71440000	DMR9:71438001	0.9	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	10	0	
+chr9	85027000	85028000	DMR9:85027001	1.1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr9	85196000	85197000	DMR9:85196001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr9	96642000	96645000	DMR9:96642001	0.9333	0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	12	0.06944	1
+chr9	103241000	103242000	DMR9:103241001	1.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	6	0.1146	1
+chr9	112816000	112817000	DMR9:112816001	0.9	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.1905	1
+chr9	113558000	113559000	DMR9:113558001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	4	0.1069	0.9902
+chr9	118750000	118751000	DMR9:118750001	1.6	0	True	False	True	False	True	False	False	False	False	False	False	False	False	False	False	False	13	0.01651	0.774
+chr10	13069000	13070000	DMR10:13069001	2.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	14	0	
+chr10	25748000	25749000	DMR10:25748001	1.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	5	0	
+chr10	25815000	25816000	DMR10:25815001	0.5	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr10	32782000	32783000	DMR10:32782001	0.5	0	True	False	True	True	False	False	True	False	False	False	False	True	False	False	False	True	2	0	
+chr10	47260000	47261000	DMR10:47260001	1.7	0	True	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr10	54175000	54176000	DMR10:54175001	1.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr10	75932000	75933000	DMR10:75932001	1.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	1
+chr10	84418000	84419000	DMR10:84418001	2.2	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	4	0	
+chr10	85766000	85768000	DMR10:85766001	1.15	0	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False	True	8	0.1146	1
+chr10	88699000	88702000	DMR10:88699001	2.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	75	0.05078	0.9752
+chr10	89011000	89012000	DMR10:89011001	1.4	0	True	False	True	False	True	False	False	False	False	False	False	False	False	False	False	False	4	0	
+chr10	90248000	90250000	DMR10:90248001	1.5	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr10	92938000	92939000	DMR10:92938001	1.1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	9	0.07868	0.9867
+chr10	93243000	93245000	DMR10:93243001	0.5	0	True	True	False	True	False	False	False	False	True	False	False	False	True	False	False	False	0		
+chr10	93633000	93635000	DMR10:93633001	1.4	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	8	0.09128	
+chr10	93654000	93655000	DMR10:93654001	3.1	0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	9	0.004182	0.9608
+chr10	97778000	97779000	DMR10:97778001	3.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	11	0.03742	0.9329
+chr10	102544000	102545000	DMR10:102544001	1.6	0	True	True	True	False	True	False	False	False	False	False	False	False	True	False	False	False	0		
+chr10	103817000	103819000	DMR10:103817001	2.45	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	19	0.01379	0.6395
+chr10	105113000	105115000	DMR10:105113001	2.15	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	34	0.04034	0.9789
+chr10	108024000	108025000	DMR10:108024001	2.5	0	True	False	False	True	False	False	True	False	True	False	False	False	False	True	False	True	0		
+chr10	108271000	108274000	DMR10:108271001	1.833	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	11	0.2078	0.9667
+chr10	109197000	109201000	DMR10:109197001	2.025	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	52	0.05929	0.9533
+chr10	110411000	110415000	DMR10:110411001	1.25	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	18	0	1
+chr11	3782000	3783000	DMR11:3782001	0.5	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr11	7053000	7054000	DMR11:7053001	0.3	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr11	8250000	8251000	DMR11:8250001	0.7	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr11	9012000	9014000	DMR11:9012001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr11	9026000	9027000	DMR11:9026001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr11	12910000	12911000	DMR11:12910001	1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	1	
+chr11	18202000	18203000	DMR11:18202001	0.4	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr11	31579000	31581000	DMR11:31579001	2.15	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	9	0	1
+chr11	32013000	32014000	DMR11:32013001	1.8	0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.04762	
+chr11	32075000	32076000	DMR11:32075001	0.7	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr11	32820000	32823000	DMR11:32820001	1.367	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	16	0.04557	1
+chr11	33408000	33409000	DMR11:33408001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	True	False	True	0		
+chr11	36244000	36245000	DMR11:36244001	2.3	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	14	0.08163	0.9847
+chr11	39770000	39771000	DMR11:39770001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr11	58850000	58851000	DMR11:58850001	1.1	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		0.6571
+chr11	67509000	67510000	DMR11:67509001	1.1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr11	74627000	74628000	DMR11:74627001	1.5	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	13	0.04108	0.9155
+chr11	74912000	74913000	DMR11:74912001	0.8	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr11	77623000	77624000	DMR11:77623001	1.3	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr11	80134000	80135000	DMR11:80134001	0.5	0.013	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr11	83007000	83008000	DMR11:83007001	3.1	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	0		
+chr11	83629000	83630000	DMR11:83629001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr11	86670000	86671000	DMR11:86670001	0.9	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0	
+chr12	5687000	5688000	DMR12:5687001	2.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0	0.7
+chr12	17254000	17255000	DMR12:17254001	2.1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False	True	0		
+chr12	19659000	19660000	DMR12:19659001	0.9	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr12	23729000	23730000	DMR12:23729001	2.5	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr12	25365000	25366000	DMR12:25365001	2.3	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr12	26103000	26104000	DMR12:26103001	0.9	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	3	0	
+chr12	28107000	28109000	DMR12:28107001	1.5	0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	14	0.05801	0.982
+chr12	38834000	38837000	DMR12:38834001	1.567	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	13	0.1085	0.6003
+chr12	39616000	39618000	DMR12:39616001	1.45	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	12	0.006183	0.9512
+chr12	40905000	40907000	DMR12:40905001	1.25	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr12	40972000	40974000	DMR12:40972001	2.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	30	0.01906	0.6406
+chr12	42414000	42415000	DMR12:42414001	1	0	True	False	True	True	False	False	True	False	False	True	False	False	False	True	False	True	0		
+chr12	46448000	46449000	DMR12:46448001	2.3	0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	11	0.03608	0.9644
+chr12	46473000	46475000	DMR12:46473001	2	0.003	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	
+chr12	47781000	47783000	DMR12:47781001	1.85	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	30	0.05239	0.9633
+chr12	49104000	49105000	DMR12:49104001	0.3	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr12	50598000	50599000	DMR12:50598001	1	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	1	0	
+chr13	12355000	12356000	DMR13:12355001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr13	26053000	26054000	DMR13:26053001	0.8	0	True	True	False	True	False	False	False	False	False	True	False	False	True	False	False	False	0		
+chr13	29800000	29801000	DMR13:29800001	0.9	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr13	34840000	34842000	DMR13:34840001	1.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	6	0.1667	1
+chr13	40036000	40037000	DMR13:40036001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	1	0	1
+chr13	41434000	41436000	DMR13:41434001	1	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	5	0.07143	
+chr13	45229000	45230000	DMR13:45229001	0.4	0	True	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr13	46876000	46878000	DMR13:46876001	0.55	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr13	51167000	51169000	DMR13:51167001	1.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	12	0.1032	1
+chr13	53817000	53818000	DMR13:53817001	1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr13	56113000	56114000	DMR13:56113001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	1	0	
+chr13	59503000	59505000	DMR13:59503001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	1	0.6667	
+chr13	60862000	60863000	DMR13:60862001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr13	66521000	66522000	DMR13:66521001	0.4	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr13	66594000	66595000	DMR13:66594001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr13	66907000	66909000	DMR13:66907001	0.9	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	1	0	1
+chr13	67533000	67534000	DMR13:67533001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr13	91983000	91984000	DMR13:91983001	1.6	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.1582	1
+chr13	94264000	94265000	DMR13:94264001	0.9	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	7	0	1
+chr13	96931000	96932000	DMR13:96931001	0.2	0	True	False	False	True	False	False	True	False	False	False	False	True	False	True	False	True	0		
+chr13	97855000	97856000	DMR13:97855001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr13	107324000	107326000	DMR13:107324001	1.4	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	17	0.05882	0.975
+chr13	108505000	108507000	DMR13:108505001	1.4	0	True	True	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		1
+chr13	108872000	108873000	DMR13:108872001	1.8	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	9	0.2346	1
+chr13	109576000	109577000	DMR13:109576001	1.1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0.5273	
+chr14	9149000	9151000	DMR14:9149001	1.35	0	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	19	0.02329	0.9537
+chr14	10236000	10238000	DMR14:10236001	1.35	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	9	0.0138	0.4823
+chr14	13949000	13950000	DMR14:13949001	1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0	0.8889
+chr14	13994000	13995000	DMR14:13994001	1.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0	1
+chr14	29692000	29693000	DMR14:29692001	0.9	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	1
+chr14	32573000	32574000	DMR14:32573001	0.1	0	True	True	False	False	False	False	True	False	False	False	False	False	True	True	False	True	0		
+chr14	45014000	45016000	DMR14:45014001	1	0	True	False	True	True	False	False	False	False	True	False	False	False	False	False	False	False	6	0	
+chr14	49482000	49483000	DMR14:49482001	0.7	0	True	True	False	True	False	False	False	False	False	False	True	False	True	False	False	False	1	0.2	
+chr14	58317000	58319000	DMR14:58317001	1.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr14	59932000	59934000	DMR14:59932001	0.75	0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	0		
+chr14	61437000	61438000	DMR14:61437001	0.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.2667	1
+chr14	61568000	61569000	DMR14:61568001	0.9	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0	
+chr14	67131000	67132000	DMR14:67131001	0.8	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	1
+chr14	69701000	69702000	DMR14:69701001	0.4	0	True	True	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr14	70149000	70150000	DMR14:70149001	1.1	0	True	False	False	True	False	False	False	False	False	False	True	False	False	False	False	False	3	0.3377	0.8668
+chr14	78153000	78154000	DMR14:78153001	0.2	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr14	86250000	86252000	DMR14:86250001	1.7	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	6	0.1212	
+chr14	88821000	88822000	DMR14:88821001	1.6	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	8	0.05086	1
+chr14	90150000	90151000	DMR14:90150001	0.8	0	True	False	False	True	False	False	False	False	True	False	False	False	False	True	False	True	0		
+chr14	91001000	91002000	DMR14:91001001	1.3	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr14	95959000	95960000	DMR14:95959001	2.3	0	True	False	False	False	False	False	True	True	False	False	False	False	False	True	False	True	22	0.02342	0.0692
+chr14	102792000	102794000	DMR14:102792001	0.35	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr14	103131000	103132000	DMR14:103131001	0.8	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	3	0	
+chr14	103366000	103367000	DMR14:103366001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr14	103911000	103912000	DMR14:103911001	0.7	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	4	0	
+chr14	105617000	105619000	DMR14:105617001	1.05	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	4	0	1
+chr14	107023000	107024000	DMR14:107023001	1.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0.06667	
+chr14	110189000	110190000	DMR14:110189001	0.9	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	6	0.08096	
+chr15	613000	614000	DMR15:613001	0.3	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr15	5985000	5986000	DMR15:5985001	1.1	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr15	7528000	7529000	DMR15:7528001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr15	12615000	12616000	DMR15:12615001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	4	0.3583	
+chr15	17228000	17229000	DMR15:17228001	0.9	0	True	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr15	27755000	27756000	DMR15:27755001	1.2	0	True	False	True	True	False	False	False	False	False	True	False	False	False	False	False	False	2	0	
+chr15	42074000	42076000	DMR15:42074001	0.65	0	True	False	False	True	False	False	False	False	True	False	False	False	False	True	False	True	0		
+chr15	43188000	43189000	DMR15:43188001	0.2	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	1	0	
+chr15	48198000	48199000	DMR15:48198001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr15	61492000	61493000	DMR15:61492001	2.4	0	True	False	False	False	True	False	False	False	False	False	False	False	False	False	False	False	18	0.04656	0.9681
+chr15	62524000	62525000	DMR15:62524001	1.1	0	True	True	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		0.5
+chr15	63687000	63688000	DMR15:63687001	0.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	1
+chr15	69574000	69575000	DMR15:69574001	0.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr15	70109000	70110000	DMR15:70109001	1.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0	1
+chr15	73519000	73520000	DMR15:73519001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	True	False	True	0		
+chr15	74062000	74063000	DMR15:74062001	3.1	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	0		
+chr15	76320000	76321000	DMR15:76320001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr15	85964000	85965000	DMR15:85964001	1.6	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr15	88065000	88066000	DMR15:88065001	1.7	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	True	4	0.225	
+chr15	90300000	90301000	DMR15:90300001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr15	92507000	92508000	DMR15:92507001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr15	102413000	102414000	DMR15:102413001	0.7	0	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	1	0	1
+chr15	102932000	102933000	DMR15:102932001	0.4	0	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	2	0.1176	
+chr15	106279000	106280000	DMR15:106279001	1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0	0.85
+chr15	108845000	108846000	DMR15:108845001	0.8	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		1
+chr16	57000	58000	DMR16:57001	0.8	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0.009254	0.8859
+chr16	627000	628000	DMR16:627001	0.2	0	True	False	True	False	False	False	True	False	False	False	False	False	False	True	False	True	1	0	1
+chr16	1942000	1943000	DMR16:1942001	1.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	12	0.08333	
+chr16	6598000	6601000	DMR16:6598001	2.2	0	True	False	True	True	False	False	False	False	False	False	False	True	False	True	False	True	9	0.07738	0.9767
+chr16	7165000	7166000	DMR16:7165001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr16	8181000	8182000	DMR16:8181001	1.3	0	True	False	True	True	False	False	True	False	False	False	False	True	False	True	False	True	0		
+chr16	13457000	13458000	DMR16:13457001	0.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr16	23604000	23605000	DMR16:23604001	0.9	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr16	34729000	34730000	DMR16:34729001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr16	37565000	37566000	DMR16:37565001	0.6	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr16	50118000	50121000	DMR16:50118001	0.9333	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0.1143	
+chr16	56045000	56046000	DMR16:56045001	0.9	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr16	70274000	70276000	DMR16:70274001	2.05	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	31	0.0602	0.8594
+chr16	71674000	71675000	DMR16:71674001	2.7	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	16	0.03983	0.9724
+chr16	75470000	75471000	DMR16:75470001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr16	82500000	82501000	DMR16:82500001	2.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.07703	0.8268
+chr16	84706000	84707000	DMR16:84706001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr17	940000	941000	DMR17:940001	0.5	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	
+chr17	5614000	5615000	DMR17:5614001	1.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	5	0	
+chr17	8200000	8202000	DMR17:8200001	1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0.0375	1
+chr17	9856000	9858000	DMR17:9856001	1.25	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.04762	
+chr17	10789000	10790000	DMR17:10789001	1.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	12	0.2514	0.9336
+chr17	13278000	13279000	DMR17:13278001	2.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	21	0.01567	0.8735
+chr17	13733000	13735000	DMR17:13733001	0.4	0	True	False	False	False	False	False	False	False	False	False	False	False	False	True	False	True	0		
+chr17	15883000	15884000	DMR17:15883001	1.2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	0		
+chr17	20534000	20535000	DMR17:20534001	1.3	0	True	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	5	0.0251	0.9331
+chr17	25943000	25944000	DMR17:25943001	0.6	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr17	27000000	27001000	DMR17:27000001	2.1	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		0.8
+chr17	29455000	29457000	DMR17:29455001	1	0	True	False	True	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr17	41908000	41909000	DMR17:41908001	0.4	0	True	True	True	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr17	42043000	42044000	DMR17:42043001	1	0	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	2	0	0
+chr17	44778000	44779000	DMR17:44778001	1.9	0	True	False	False	True	False	False	False	False	True	True	False	False	False	False	False	False	0		
+chr17	48344000	48345000	DMR17:48344001	1.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr17	48356000	48357000	DMR17:48356001	0.5	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr17	53580000	53581000	DMR17:53580001	0.3	0	True	True	True	False	False	False	False	False	False	False	False	False	True	True	False	True	0		
+chr17	56798000	56799000	DMR17:56798001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr17	57936000	57938000	DMR17:57936001	1.55	0.0035	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	20	0.03979	0.7765
+chr17	81553000	81554000	DMR17:81553001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr17	83015000	83017000	DMR17:83015001	0.6	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	6	0.1871	0.55
+chr18	811000	812000	DMR18:811001	0.8	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr18	7516000	7517000	DMR18:7516001	1.1	0	True	True	False	True	False	False	False	False	False	True	False	False	True	False	False	False	0		
+chr18	16228000	16229000	DMR18:16228001	0.9	0.001	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	7	0.09559	0.875
+chr18	18693000	18694000	DMR18:18693001	0.7	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0	1
+chr18	19086000	19088000	DMR18:19086001	0.75	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	8	0	0.5
+chr18	19089000	19090000	DMR18:19089001	1.1	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	6	0	1
+chr18	22613000	22614000	DMR18:22613001	1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	
+chr18	23960000	23961000	DMR18:23960001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr18	25597000	25598000	DMR18:25597001	0.4	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr18	26192000	26193000	DMR18:26192001	1.1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0.2083	
+chr18	30248000	30250000	DMR18:30248001	1.1	0	True	True	False	True	False	False	False	False	False	False	False	True	False	False	False	False	2	0	
+chr18	49378000	49379000	DMR18:49378001	0.5	0	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	1
+chr18	53572000	53573000	DMR18:53572001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr18	56233000	56234000	DMR18:56233001	1.5	0.025	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chr18	56801000	56802000	DMR18:56801001	1.7	0	True	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	1	1	
+chr18	72601000	72602000	DMR18:72601001	0.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0.1111	
+chr18	80181000	80183000	DMR18:80181001	1.35	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	11	0.01299	
+chr18	80957000	80958000	DMR18:80957001	1.2	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	0		0.5556
+chr18	83644000	83645000	DMR18:83644001	1.1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0	
+chr18	87351000	87353000	DMR18:87351001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr19	1212000	1213000	DMR19:1212001	0.4	0	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	0		
+chr19	13210000	13211000	DMR19:13210001	0.5	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	2	0	
+chr19	16135000	16136000	DMR19:16135001	1.1	0	True	False	False	True	False	False	False	True	False	False	False	True	False	False	False	True	0		
+chr19	16283000	16284000	DMR19:16283001	0.7	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr19	17843000	17844000	DMR19:17843001	0.9	0	True	True	True	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr19	20252000	20254000	DMR19:20252001	1.8	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	19	0.03368	0.9306
+chr19	26348000	26350000	DMR19:26348001	2.65	0.1945	True	False	False	True	False	False	False	False	False	True	False	False	False	False	False	False	0		
+chr19	31307000	31308000	DMR19:31307001	0.7	0	True	False	True	True	False	False	True	False	True	False	False	False	False	True	False	True	1	0.1429	
+chr19	31412000	31413000	DMR19:31412001	1	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chr19	36684000	36686000	DMR19:36684001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr19	39122000	39123000	DMR19:39122001	1.1	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0.25	
+chr19	39668000	39669000	DMR19:39668001	1.8	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chr19	42402000	42403000	DMR19:42402001	1	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	1	0	
+chr19	49242000	49243000	DMR19:49242001	0.9	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chr19	53347000	53349000	DMR19:53347001	3	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	30	0	
+chr19	55320000	55323000	DMR19:55320001	3.667	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	98	0.04131	0.9692
+chr19	56161000	56163000	DMR19:56161001	2.35	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	47	0.07859	0.9504
+chr19	57988000	57989000	DMR19:57988001	1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	3	0.05556	
+chr20	1212000	1213000	DMR20:1212001	0.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr20	3451000	3452000	DMR20:3451001	2	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	6	0.009033	0.876
+chr20	4314000	4315000	DMR20:4314001	1.8	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	4	0	
+chr20	4460000	4463000	DMR20:4460001	2.3	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	58	0.05645	0.9275
+chr20	4829000	4830000	DMR20:4829001	1.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	True	False	True	0		
+chr20	4949000	4952000	DMR20:4949001	1.4	0.04667	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	1	0	
+chr20	6512000	6516000	DMR20:6512001	2.925	0	True	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	88	0.05029	0.9592
+chr20	6680000	6682000	DMR20:6680001	1.85	0.0015	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	28	0.04303	0.8629
+chr20	6940000	6943000	DMR20:6940001	2.133	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	15	0.09744	
+chr20	8407000	8408000	DMR20:8407001	1.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	True	4	0	
+chr20	9424000	9425000	DMR20:9424001	3.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	18	0.03579	0.9184
+chr20	11539000	11541000	DMR20:11539001	2.25	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	37	0.06708	0.8734
+chr20	11920000	11921000	DMR20:11920001	2.1	0	True	False	True	False	False	False	False	True	False	False	False	False	False	True	False	True	1	0	
+chr20	12001000	12003000	DMR20:12001001	1.85	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	9	0.1378	1
+chr20	16464000	16465000	DMR20:16464001	0.6	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	2	0.05	1
+chr20	26529000	26530000	DMR20:26529001	2	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	18	0.04693	0.9257
+chr20	28613000	28615000	DMR20:28613001	0.85	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr20	32009000	32011000	DMR20:32009001	1.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	9	0	
+chr20	38960000	38961000	DMR20:38960001	1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	7	0	
+chr20	45992000	45993000	DMR20:45992001	1.3	0	True	False	False	False	False	False	True	False	False	False	False	False	False	True	False	True	0		
+chr20	53947000	53948000	DMR20:53947001	1.1	0	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	False	2	0	1
+chr20	55081000	55084000	DMR20:55081001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chr20	55869000	55870000	DMR20:55869001	0.5	0	True	False	False	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chrX	269000	270000	DMRX:269001	0.6	0	True	False	False	True	False	False	False	False	True	False	False	False	False	True	False	True	1	0	
+chrX	7403000	7404000	DMRX:7403001	1.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	11615000	11616000	DMRX:11615001	1.1	0	True	False	True	True	False	False	False	False	True	False	False	False	False	False	False	False	0		
+chrX	17596000	17597000	DMRX:17596001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	18032000	18033000	DMRX:18032001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	19300000	19301000	DMRX:19300001	0.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	21169000	21170000	DMRX:21169001	1	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	41586000	41587000	DMRX:41586001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	59498000	59499000	DMRX:59498001	0.6	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	70501000	70503000	DMRX:70501001	0.55	0	True	True	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		1
+chrX	79738000	79739000	DMRX:79738001	0.2	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	88448000	88449000	DMRX:88448001	0.3	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	110626000	110627000	DMRX:110626001	0.5	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	True	0		
+chrX	111704000	111705000	DMRX:111704001	0.9	0	True	False	True	False	False	False	False	False	False	False	False	False	False	False	False	False	0		
+chrX	111779000	111780000	DMRX:111779001	1.7	0	True	False	False	False	False	False	True	False	False	False	False	False	False	False	False	True	2	0	
+chrX	128851000	128852000	DMRX:128851001	1.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	130617000	130618000	DMRX:130617001	1.4	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	138218000	138219000	DMRX:138218001	0.4	0	True	False	False	True	False	False	False	False	False	False	False	True	False	False	False	False	0		
+chrX	140697000	140698000	DMRX:140697001	0.5	0	True	True	False	True	False	False	False	False	False	False	False	True	True	False	False	False	0		
+chrX	142903000	142904000	DMRX:142903001	0.7	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		
+chrX	156030000	156032000	DMRX:156030001	0.8	0	True	True	False	False	False	False	False	False	False	False	False	False	True	False	False	False	0		

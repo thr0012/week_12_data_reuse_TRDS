@@ -1,0 +1,19 @@
+{
+  "label": "Thorson 2020 S2_lean",
+  "n_dmrs_input": 301,
+  "n_dmrs_canonical": 301,
+  "dmr_length_median": 1000.0,
+  "dmr_cpg_per_100bp_median": 0.9,
+  "cpg_density_bin_edges": [
+    0.5,
+    0.8,
+    1.0,
+    1.5
+  ],
+  "n_perm": 1000,
+  "H2_dmrs_topped_up": 0,
+  "n_dmrs_covered": 95,
+  "pct_dmrs_covered": 31.56,
+  "gd18_cpgs": 6432536,
+  "H1_dmrs_topped_up": 0
+}

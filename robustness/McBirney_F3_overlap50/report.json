@@ -1,0 +1,15 @@
+{
+  "label": "McBirney F3, overlap >= 50%",
+  "n_dmrs_input": 958,
+  "n_dmrs_canonical": 958,
+  "dmr_length_median": 2200.0,
+  "dmr_cpg_per_100bp_median": 0.75,
+  "cpg_density_bin_edges": [
+    0.4,
+    0.6298238747553816,
+    0.875,
+    1.1810909090909092
+  ],
+  "n_perm": 1000,
+  "H2_dmrs_topped_up": 0
+}

@@ -1,0 +1,19 @@
+{
+  "label": "McBirney 2017 F1",
+  "n_dmrs_input": 519,
+  "n_dmrs_canonical": 519,
+  "dmr_length_median": 1100.0,
+  "dmr_cpg_per_100bp_median": 1.099009900990099,
+  "cpg_density_bin_edges": [
+    0.5,
+    0.9134117647058825,
+    1.3961904761904773,
+    2.2
+  ],
+  "n_perm": 1000,
+  "H2_dmrs_topped_up": 0,
+  "n_dmrs_covered": 166,
+  "pct_dmrs_covered": 31.98,
+  "gd18_cpgs": 6432536,
+  "H1_dmrs_topped_up": 0
+}

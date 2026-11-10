@@ -1,0 +1,19 @@
+{
+  "label": "Thorson 2020 S5_puberty",
+  "n_dmrs_input": 322,
+  "n_dmrs_canonical": 322,
+  "dmr_length_median": 1000.0,
+  "dmr_cpg_per_100bp_median": 0.8,
+  "cpg_density_bin_edges": [
+    0.4,
+    0.7,
+    0.9800000000000011,
+    1.3
+  ],
+  "n_perm": 1000,
+  "H2_dmrs_topped_up": 0,
+  "n_dmrs_covered": 101,
+  "pct_dmrs_covered": 31.37,
+  "gd18_cpgs": 6432536,
+  "H1_dmrs_topped_up": 1
+}

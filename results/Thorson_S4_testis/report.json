@@ -1,0 +1,19 @@
+{
+  "label": "Thorson 2020 S4_testis",
+  "n_dmrs_input": 693,
+  "n_dmrs_canonical": 693,
+  "dmr_length_median": 1000.0,
+  "dmr_cpg_per_100bp_median": 0.9333333333333333,
+  "cpg_density_bin_edges": [
+    0.5,
+    0.8,
+    1.1,
+    1.65
+  ],
+  "n_perm": 1000,
+  "H2_dmrs_topped_up": 0,
+  "n_dmrs_covered": 227,
+  "pct_dmrs_covered": 32.76,
+  "gd18_cpgs": 6432536,
+  "H1_dmrs_topped_up": 0
+}

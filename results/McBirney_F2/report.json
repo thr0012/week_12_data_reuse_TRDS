@@ -1,0 +1,19 @@
+{
+  "label": "McBirney 2017 F2",
+  "n_dmrs_input": 431,
+  "n_dmrs_canonical": 431,
+  "dmr_length_median": 500.0,
+  "dmr_cpg_per_100bp_median": 1.0,
+  "cpg_density_bin_edges": [
+    0.5,
+    0.8,
+    1.1818181818181825,
+    1.6666666666666667
+  ],
+  "n_perm": 1000,
+  "H2_dmrs_topped_up": 0,
+  "n_dmrs_covered": 94,
+  "pct_dmrs_covered": 21.81,
+  "gd18_cpgs": 6432536,
+  "H1_dmrs_topped_up": 0
+}
